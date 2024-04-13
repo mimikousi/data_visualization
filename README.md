@@ -1,1 +1,1 @@
-ブログ記事　https://mimikousi.com/のコードをまとめています。
+ブログ記事　https://mimikousi.com/ のコードをまとめています。
