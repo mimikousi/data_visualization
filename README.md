@@ -1,2 +1,1 @@
-# test
-test
+ブログ記事　https://mimikousi.com/のコードをまとめています。
